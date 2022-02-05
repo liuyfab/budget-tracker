@@ -19,7 +19,7 @@ Clone the repo to your local machine and install the dependencies such as Node, 
 # Usage
 To use the app itself, enter a transaction name and an amount, then either click the button to add or subtract the entered amount from your total. The transaction history will be recorded and the graph will reflect your deposits and withdraws.
 
-![Landing Page](https://github.com/liuyfab/social-network-API/blob/main/assets/Screenshot.png?raw=true)
+![Landing Page](https://github.com/liuyfab/budget-tracker/blob/main/assets/Screenshot.png?raw=true)
 
 ## License
   # MIT
